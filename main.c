@@ -9,7 +9,7 @@
 #define DIRECTION_MID 50
 #define DIRECTION_MAX 100	/*TODO*/
 #define DIRECTION_MIN 0		/*TODO*/
-#define DIRECTION_CHANNEL 99/*TODO*/
+#define DIRECTION_CHANNEL 1 /*TODO*/
 #define NMARKS 3
 #define BUFSIZE 32
 
